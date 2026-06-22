@@ -17,15 +17,11 @@ The platform provides a secure and user-friendly environment for **Admins** and 
 
 # 💖 Support & Contact
 
-This project is created by **LazyCoder**.
+This project is created by **Ganesh patil**.
 
-### 📺 Subscribe to My YouTube Channel
-I post tutorials, Java/Python projects, and Spring Boot content regularly.
 
-👉 **Subscribe Here:**  
-https://www.youtube.com/c/LazyCoderOnline?sub_confirmation=1
 
----
+
 
 ### 🤝 Need Help or Want a Custom Project?
 
@@ -34,19 +30,11 @@ https://www.youtube.com/c/LazyCoderOnline?sub_confirmation=1
 
 **I am available for freelance development.**
 
-📱 **WhatsApp:** https://wa.me/919572181024
+📱 **WhatsApp:** 7887509277
 
-<p align="center">
-<a href="https://www.youtube.com/c/LazyCoderOnline?sub_confirmation=1">
-<img src="https://img.shields.io/badge/Subscribe-LazyCoder-red?style=for-the-badge&logo=youtube" >
-</a>
 
-<a href="https://wa.me/919572181024">
-<img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-green?style=for-the-badge&logo=whatsapp" >
-</a>
-</p>
 
----
+
 
 # 📸 Screenshots
 
