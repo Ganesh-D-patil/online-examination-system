@@ -129,7 +129,7 @@ This project is created by **Ganesh patil**.
 ### ✔️ Clone the Repository
 
 ```bash
-git clone https://github.com/sumitkumar1503/online-exam-system.git
+git clone https://github.com/Ganesh-D-patil/online-examination-system.git
 cd online-exam-system
 ```
 
